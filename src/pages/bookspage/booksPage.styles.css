@@ -1,0 +1,15 @@
+.search-container{
+    width: 40%;
+    margin: auto;
+    padding-top: 5%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.search-container h2{
+    text-align: center;
+    padding-bottom: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.search-container span {
+    font-family: 'Times New Roman', Times, serif;
+}
