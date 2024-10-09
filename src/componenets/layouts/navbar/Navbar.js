@@ -51,4 +51,4 @@ const Navbar = ({ darkTheme, darkText }) => {
     )
 }
 
-export default Navbar
+export default Navbar;
