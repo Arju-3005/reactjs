@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/reactjs/static/css/main.bc97f7e0.css",
-    "main.js": "/reactjs/static/js/main.0badd5ec.js",
-    "static/media/bg image 2.jpg": "/reactjs/static/media/bg image 2.2255b0d32b22dbc086a0.jpg",
-    "static/media/bg image 3.jpg": "/reactjs/static/media/bg image 3.5859a1aeda5595529fa4.jpg",
-    "static/media/bg image1.webp": "/reactjs/static/media/bg image1.2f778d0093f0f4e9f1ed.webp",
-    "static/media/cart.svg": "/reactjs/static/media/cart.5cc362c04b029e48165981080d573359.svg",
-    "index.html": "/reactjs/index.html",
-    "main.bc97f7e0.css.map": "/reactjs/static/css/main.bc97f7e0.css.map",
-    "main.0badd5ec.js.map": "/reactjs/static/js/main.0badd5ec.js.map"
+    "main.css": "/https//Arju-3005.github.io./reactjs/static/css/main.6b8fc073.css",
+    "main.js": "/https//Arju-3005.github.io./reactjs/static/js/main.b08c35cf.js",
+    "static/media/bg image 2.jpg": "/https//Arju-3005.github.io./reactjs/static/media/bg image 2.2255b0d32b22dbc086a0.jpg",
+    "static/media/bg image 3.jpg": "/https//Arju-3005.github.io./reactjs/static/media/bg image 3.5859a1aeda5595529fa4.jpg",
+    "static/media/bg image1.webp": "/https//Arju-3005.github.io./reactjs/static/media/bg image1.2f778d0093f0f4e9f1ed.webp",
+    "index.html": "/https//Arju-3005.github.io./reactjs/index.html",
+    "static/media/cart.svg": "/https//Arju-3005.github.io./reactjs/static/media/cart.5cc362c04b029e48165981080d573359.svg",
+    "main.6b8fc073.css.map": "/https//Arju-3005.github.io./reactjs/static/css/main.6b8fc073.css.map",
+    "main.b08c35cf.js.map": "/https//Arju-3005.github.io./reactjs/static/js/main.b08c35cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc97f7e0.css",
-    "static/js/main.0badd5ec.js"
+    "static/css/main.6b8fc073.css",
+    "static/js/main.b08c35cf.js"
   ]
 }
